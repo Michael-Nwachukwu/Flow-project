@@ -2,17 +2,6 @@
 
 The `PetStore` is a simple smart contract deployed on the Flow blockchain that allows users to adopt pets and store information about them. This repository contains the contract code, a transaction script for adopting pets, and a script to retrieve all adopted pets.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Contract Overview](#contract-overview)
-- [Transaction Script](#transaction-script)
-- [Query Script](#query-script)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The `PetStore` contract allows users to adopt pets by specifying their name, favorite toy, and age. Adopted pets are stored in an array, which can be queried to retrieve all the adopted pets. The contract is deployed on the Flow blockchain.
